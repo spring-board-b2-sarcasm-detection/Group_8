@@ -5,4 +5,4 @@ Sarcasm detection in Hindi tweets involves identifying and classifying tweets th
 
 Access for datasets:
 - For non-sarcastic dataset: https://www.kaggle.com/code/dhirajkumarsahu/hindi-tweet-classification/input?select=Sarcasm_Hindi_Tweets-NON-SARCASTIC.csv
-- for sarcastic dataset: https://www.kaggle.com/code/dhirajkumarsahu/hindi-tweet-classification/input?select=Sarcasm_Hindi_Tweets-SARCASTIC.csv
+- For sarcastic dataset: https://www.kaggle.com/code/dhirajkumarsahu/hindi-tweet-classification/input?select=Sarcasm_Hindi_Tweets-SARCASTIC.csv
